@@ -18,7 +18,7 @@ dependencies:
 
   amap_flutter_base:
     git:
-      url: https://github.com/AlexV525/amap_flutter_base
+      url: https://github.com/yoguang/amap_flutter_base
       branch: main
 
 dev_dependencies:
